@@ -248,6 +248,11 @@ namespace RestaurantePedidos
 
             cbTipoProducto.SelectedIndex = 0;
         }
+
+        private void cbTipoBebida_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 } 
 
